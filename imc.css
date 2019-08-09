@@ -1,0 +1,57 @@
+/* Adoro Material Design Google e Dark Mode*/
+body {
+	background-color: #777;
+	font-family: Helvetica;
+}
+
+form fieldset {
+	background-color: #222;
+  color: white;
+  font-size: 12pt;
+  text-align: center;
+  margin: 50px auto 50px auto;
+  width: 30%;
+  height: 400px;
+  border: solid black 1px;
+  border-radius: 5px;
+  padding: 0%;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 10px #222;
+}
+
+#cabecalho {
+	background-color: #0C9789;
+	height: 40px;
+	text-align: center;
+	font-size: 18pt;
+	font-family: Tahoma;
+	font-weight: bold;
+	padding-top: 10px;
+	border-radius: 5px;
+}
+
+input {
+	background-color: #222;
+	color: white;
+	text-align: justify;
+	text-indent: 5px;
+	border: 1px solid #555;
+	border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+	background-color: #0C9789;
+	color: white;
+	width: 100px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 5px;
+  margin-left: 30%;
+}
+
+#resultado {
+	width: 90%;
+	height: 60px;
+	text-align: center;
+}
